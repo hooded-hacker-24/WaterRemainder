@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WaterRemaider</string>
+    <string name="_8_30_pm">8 : 30 PM</string>
+    <string name="set_a_time">Set a Time</string>
+</resources>
